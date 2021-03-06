@@ -54,7 +54,7 @@
     "@babel/core": "^7.12.16",
     "@babel/preset-env": "^7.12.16",
     "@nuxt/types": "^2.15.0",
-    "@nuxtjs/eslint-config-typescript": "^5.0.0",
+    "@nuxtjs/eslint-config-typescript": "^6.0.0",
     "@nuxtjs/module-test-utils": "^1.6.3",
     "@release-it/conventional-changelog": "^2.0.0",
     "@types/consola": "^2.2.5",
